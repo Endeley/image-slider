@@ -1,2 +1,2 @@
-# image-slider
-learning to code
+# code-practice
+ show case project, my first javascript learning project
